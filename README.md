@@ -10,4 +10,8 @@ This repository have some basic Tailwind css starter projects.
 
 ![](Assests/Readme%20Images/mobileLanding.png)
 
+## Font and Sizing Concept
 
+The image below shows the output for index.html utlizing some Font and Sizing utility classes of tailwind css.
+
+![](Assests/Readme%20Images/font&sizing.png)
