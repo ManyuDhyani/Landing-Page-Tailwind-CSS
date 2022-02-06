@@ -15,3 +15,9 @@ This repository have some basic Tailwind css starter projects.
 The image below shows the output for index.html utlizing some Font and Sizing utility classes of tailwind css.
 
 ![](Assests/Readme%20Images/font&sizing.png)
+
+## Margins Borders and Padding Concepts
+
+The image below shows the output for index.html utlizing some Margins, Borders, and Padding utility classes of tailwind css.
+
+![](Assests/Readme%20Images/Margins_Borders_and_Padding_Concepts.png)
