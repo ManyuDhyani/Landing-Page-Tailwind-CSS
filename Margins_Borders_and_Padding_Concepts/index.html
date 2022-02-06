@@ -8,6 +8,34 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="mx-4">Setup</div>
+    <nav>
+        <ul class="flex space-x-3 space-y-3">
+            <!--Classes don't get applied to First Element. 
+            So we can use a empty <li> so that classes get applied from "Home"-->
+            <li></li>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+            <li>FAQ</li>
+        </ul>
+    </nav>
+    <div>
+        <div class="w-100 mx-8 px-8 rounded-lg border-2 border-yellow-200 bg-red-800 text-white">
+            I am a Div.
+        </div>
+        <div class="m-2 grid grid-cols-1 divide-y">
+            <div>A</div>
+            <div>B</div>
+            <div>C</div>
+          </div>
+          <div class="m-2 grid grid-cols-3 divide-x text-center">
+            <div>A</div>
+            <div>B</div>
+            <div>C</div>
+          </div>
+          <button class="m-4 ring-2 ring-purple-500 ring-offset-4 ring-offset-purple-100 rounded-lg">
+            Save Changes
+          </button>
+    </div>
 </body>
 </html>
