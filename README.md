@@ -21,3 +21,9 @@ The image below shows the output for index.html utlizing some Font and Sizing ut
 The image below shows the output for index.html utlizing some Margins, Borders, and Padding utility classes of tailwind css.
 
 ![](Assests/Readme%20Images/Margins_Borders_and_Padding_Concepts.png)
+
+## Square Bracket Notation Concepts
+
+The image below shows the output for index.html utlizing some Square Bracket Notation utility classes of tailwind css.
+
+![](Assests/Readme%20Images/Square_Bracket_Notation.png)
