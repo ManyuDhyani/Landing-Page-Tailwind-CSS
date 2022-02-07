@@ -8,6 +8,16 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="mx-2">Setup</div>
+    <!--
+        Use unprefixed utilities to target mobile, and override them at larger breakpoints.
+        In other words, design for smaller screen and add breakpoints for larger ones.
+        We can also customize the breakpoints. (See tailwind.config.js)
+    -->
+    <div class="lg:hidden mx-2 bg-red-900 sm:bg-yellow-500 md:bg-green-900 lg:text-white">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore minus assumenda necessitatibus explicabo, eos repellat tempora cumque error quidem voluptas obcaecati accusantium omnis!
+    </div>
+    <div class="hidden lg:block mx-2 bg-red-900 sm:bg-yellow-500 md:bg-green-900 lg:text-white">
+        Large screen.
+    </div>
 </body>
 </html>
