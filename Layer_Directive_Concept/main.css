@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
+.componentsafter{
+    text-align: center;
+}
+
 @tailwind utilities;
+
+@layer components{
+    .btn{
+        @apply text-white bg-red-600 rounded-2xl border-red-900 border-2 px-2 py-1 text-sm;
+    }
+    
+}
+
+/*
+Layer directive is used to tell tailwind that after which in-built class we have to use our custom class.
+Here now Order will be:
+Components
+.btn
+.componentsafter
+*/
