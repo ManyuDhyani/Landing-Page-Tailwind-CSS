@@ -8,6 +8,8 @@ This repository have some basic Tailwind css starter projects.
 
 ## Mobile Landing Page
 
+Use dist directory in Mobile_Landing for production ready bundle.
+
 ![](Assests/Readme%20Images/mobileLanding.png)
 
 ## Font and Sizing Concept
