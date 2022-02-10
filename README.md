@@ -12,6 +12,12 @@ Use dist directory in Mobile_Landing for production ready bundle.
 
 ![](Assests/Readme%20Images/mobileLanding.png)
 
+## Facebook Login Page Clone
+
+Use dist directory in Facebook_Login_Clone for production ready bundle.
+
+![](Assests/Readme%20Images/fb_login_clone.png)
+
 ## Font and Sizing Concept
 
 The image below shows the output for index.html utlizing some Font and Sizing utility classes of tailwind css.
