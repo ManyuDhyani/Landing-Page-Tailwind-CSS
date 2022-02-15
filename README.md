@@ -16,12 +16,15 @@ Use dist directory in Mobile_Landing for production ready bundle.
 
 Use dist directory in Facebook_Login_Clone for production ready bundle.
 
+![](Assests/Readme%20Images/fb_login_clone.png)
+
 ## Microsoft Landing Page Clone
 
 Use dist directory in Microsoft_Landing_Page_Clone for production ready bundle.
 
+![](Assests/Readme%20Images/microsoft_clone_desktop.png)
 
-<img src="Assests/Readme%20Images/microsoft_clone_desktop.png" width=77% height="400"> &nbsp; <img src="Assests/Readme%20Images/microsoft_clone_mobile.png" height="400">
+<img src="Assests/Readme%20Images/microsoft_clone_mobile.png" height="600">
 
 ## Font and Sizing Concept
 
